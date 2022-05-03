@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="2.2014121"
-     inkscape:cx="80.402939"
+     inkscape:cx="80.630065"
      inkscape:cy="218.04187"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-1928"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
@@ -360,31 +360,6 @@
        d="M313.65 447.56c-.11.08-.24.06-.36.09a6.15 6.15 0 0 0-3.38 1.73 4.8 4.8 0 0 0-1.4 3.33 6.06 6.06 0 0 0 .76 3c0 .06.11.12.06.18s-.12 0-.18-.05a5.37 5.37 0 0 0-3.45-.2 7 7 0 0 0-3.42 2 4.91 4.91 0 0 0-1.31 2.58 4.07 4.07 0 0 0 .44 2.49c0 .08.09.17.14.26a.09.09 0 0 1-.11 0 4 4 0 0 0-2.14-.35 5.82 5.82 0 0 0-2.68.9 4 4 0 0 0-1.49 1.52 2.67 2.67 0 0 0-.05 2.49 3.84 3.84 0 0 0 .33.59s.09.08 0 .13-.09 0-.14 0a3 3 0 0 1-.66-.28 1.85 1.85 0 0 0-1.08-.21 4 4 0 0 0-.9.26 6 6 0 0 0-1.37.85.83.83 0 0 0-.25.5c-.06.34-.09.68-.16 1a.93.93 0 0 1-1.39.65 4.83 4.83 0 0 1-.76-.59l-.1-.09a1.15 1.15 0 0 0-1.22-.24 4.22 4.22 0 0 0-2.34 1.85v.09h-.05c-.05 0 0 0 0-.06l-.06-.3a2.79 2.79 0 0 0-2.51-2.31 5.53 5.53 0 0 0-4.62 1.63 3 3 0 0 0-.73 1.07l-.05.09c-.1-.25-.17-.52-.28-.76a4.64 4.64 0 0 0-3.65-2.84 6.3 6.3 0 0 0-4.69 1.05 6.93 6.93 0 0 0-1.4 1.46l-.41.49s-.08.12-.15.11c-.07-.01-.06-.11-.07-.17a6.08 6.08 0 0 0-1-2.14 5 5 0 0 0-3.57-2.14 6 6 0 0 0-3.89.92l-.14.08c0-.08 0-.14.05-.21a11.94 11.94 0 0 1 1.32-2.56c.73-1.13 1.43-2.28 2.24-3.37a8.36 8.36 0 0 1 4.37-3.05 9.39 9.39 0 0 1 2.74-.48 9.56 9.56 0 0 1 2.85.47 28.14 28.14 0 0 1 3.28 1.33 23.45 23.45 0 0 0 5.4 1.79 18.16 18.16 0 0 0 2.32.29h1.69c.1 0 .1-.05.07-.12a1.82 1.82 0 0 0-.54-.82 7.83 7.83 0 0 1-.68-.73 2.46 2.46 0 0 1-.42-.8c-.06-.19 0-.21.15-.18a5.76 5.76 0 0 0 1.1.05h.46c.08 0 .12-.05.16-.11a2.83 2.83 0 0 1 2.2-1.28 2.43 2.43 0 0 1 .81.08.42.42 0 0 0 .4-.08 10.92 10.92 0 0 0 1.1-.94c.11-.12.13-.12.17.05a2.66 2.66 0 0 1 .1.75v1.29a2 2 0 0 0 .25.73c0 .09.11 0 .16 0a6.19 6.19 0 0 0 1.46-1 13.05 13.05 0 0 0 2.86-3.58c.71-1.27 1.3-2.6 1.94-3.9a16.54 16.54 0 0 1 2.39-3.8 9 9 0 0 1 5.16-2.95 10.91 10.91 0 0 1 4.72.27 28.74 28.74 0 0 1 3.93 1.41l1.59.66s.05.07.08.13z"
        id="path220" />
   </g>
-  <path
-     class="cls-10"
-     id="line223"
-     style="fill:none;stroke:#e2c2a6;stroke-width:3.72000003px;stroke-miterlimit:10"
-     d="M219.38 90.045h44.2" />
-  <path
-     class="cls-10"
-     d="M227.85 59.685s3.31 22.72 35.11 22.72"
-     id="path225"
-     style="fill:none;stroke:#e2c2a6;stroke-width:3.72000003px;stroke-miterlimit:10" />
-  <path
-     class="cls-10"
-     d="M229.3 117.105s1.86-19.59 33.7-19.59"
-     id="path227"
-     style="fill:none;stroke:#e2c2a6;stroke-width:3.72000003px;stroke-miterlimit:10" />
-  <path
-     class="cls-11"
-     id="rect229"
-     style="fill:url(#linearGradient372)"
-     d="M252.18 78.315h16.46v22.37h-16.46z" />
-  <path
-     class="cls-11"
-     id="rect231"
-     style="fill:url(#linearGradient374)"
-     d="M252.18 78.315h16.46v22.37h-16.46z" />
   <g
      id="_8lvMbs-2"
      data-name="8lvMbs"
@@ -423,13 +398,6 @@
      d="M341.16 280.015a6.37 6.37 0 0 1 0 1.94 7.26 7.26 0 0 1-.65 2.12 6.27 6.27 0 0 1-1.13 1.67 1.5 1.5 0 0 1-1.4.55 22.49 22.49 0 0 1-4.71-1.23 63.2 63.2 0 0 1-3.79-1.6c-1.11-.52-2.1-1-2.94-1.4a5.3 5.3 0 0 0-2.29-.62 1.28 1.28 0 0 0-1.23-.27 5.87 5.87 0 0 0-1.81.61 5.29 5.29 0 0 0-1.57 1.23 2.22 2.22 0 0 0-.58 1.64 2.73 2.73 0 0 0 1 1.81 9.84 9.84 0 0 0 2.52 1.57 27.77 27.77 0 0 0 3.59 1.33c1.34.42 2.74.8 4.2 1.17a15.86 15.86 0 0 1 5.57 2.56 9.32 9.32 0 0 1 3.14 3.89 8.6 8.6 0 0 1 .45 4.89 14.35 14.35 0 0 1-2.46 5.53 7.78 7.78 0 0 1-1 5.33 9.67 9.67 0 0 1-3.86 3.38 18.77 18.77 0 0 1-5.77 1.74 36.31 36.31 0 0 1-6.7.34 7.36 7.36 0 0 1-3 .31 17.51 17.51 0 0 1-3.86-.68 16.06 16.06 0 0 1-3.69-1.61 6 6 0 0 1-2.39-2.39.67.67 0 0 0-.31-.41 1 1 0 0 0-.34-.07.7.7 0 0 0-.27 0c-.07 0-.1 0-.1-.11a3.86 3.86 0 0 1 .37-1.53 10.48 10.48 0 0 1 .72-1.4c0-.23.23-.4.55-.52a.79.79 0 0 0 .54-.71 8.68 8.68 0 0 0 .65-1.33 4 4 0 0 1 .79-1.34c.09-.18.21-.12.37.17a.59.59 0 0 0 .65.38 3.2 3.2 0 0 0 1-.82l1.06-1.2a6.81 6.81 0 0 1 1-1 .69.69 0 0 1 .92 0 5.83 5.83 0 0 1 1.13 1.64l.89 1.92a10.6 10.6 0 0 0 1 1.77 3.07 3.07 0 0 0 1.54 1.16 11.07 11.07 0 0 0 3.31.58 11.76 11.76 0 0 0 3.76-.37 5.84 5.84 0 0 0 2.77-1.57 2.68 2.68 0 0 0 .34-2.94 8.31 8.31 0 0 0-2.46-3.45 24.93 24.93 0 0 0-4-2.77q-2.19-1.23-4.51-2.29a36 36 0 0 1-4.1-2.15 3.66 3.66 0 0 0-1.71-1.29c-.59-.19-1.16-.33-1.71-.45a4.64 4.64 0 0 1-1.57-.65 3.55 3.55 0 0 1-1.23-2 8.1 8.1 0 0 1-.3-5.81 14.81 14.81 0 0 1 3.21-5.49 25.6 25.6 0 0 1 5.56-4.62 30.92 30.92 0 0 1 6.73-3.17 21.55 21.55 0 0 1 6.7-1.13 10 10 0 0 1 5.5 1.44c.95 0 1.44.26 1.47.64a3.08 3.08 0 0 1-.35 1.4c-.25.55-.49 1.1-.71 1.64a1.14 1.14 0 0 0 .41 1.44c-.1.41.1.68.58.82a13.39 13.39 0 0 0 1.64.34 10.53 10.53 0 0 1 1.74.41 1.27 1.27 0 0 1 1.13 1.03z"
      id="path246"
      style="fill:#f8e4cd" />
-  <image
-     width="4.32"
-     height="28.08"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAB1CAYAAABDP7G1AAAACXBIWXMAAC4jAAAuIwF4pT92AAAC8ElEQVRoQ+VYQZLcIAxsT/j/K1J5RI55R075xmYgB1sYRAsJO66kkq7aWrfAspCFGs/249uXgt+AlzchilRKkYjy8V+caz5FAvBWNo9TJACrOaKRpmaATbKW194DAFk7AvylUa5zNDwpyhOAn9hDn92kxwabzgWdFEGfowJga0YZB96H7dNhfaMACeXMUQHytk9+VT9NccjlVvaHN0M5FbUMxfMxuUtB60Au2qVZefHyl4G5oyWuCzJUfAxSkEtPP9DVnlWQHofmqRrru3W42FTPSCjqSbqpjE3mfdjOggRvbB7s198W2LEjpLIrVyvLKtChsocJmgN+ZQ+DhJtjraNo8bkdciWyge8RnYvOqkZazqq7QuronKRv6rNtVrvkyKslNt7ZEoAPxPbWFKK00TdmIhUUVXMuJNKpZEdg77Vx7hRuQQJG2ATDtrFOI5pbilznRR253DvWeGVR+WzTCmZR0YjCy2D2O446vpLsab1Zu9/ujgXszFTPR9OnDeP7zbQfeY4YhhxFtN+FFdGSE+BsbLdxpY3I/G4j33HU8cccSSHK2cfC0CGsDqn5n2ts4Rs19zqk5pc6pJkPdn2nsXX2O4463uWoOcUC2A+imqOxtZtUTrU1aWoHvxtuzQFwJttbhmcPd0g2/lyr/cC+SZdPaS2siC71bPYSlqM7HekiEdsohvmwvdoQ7nz4nRxjY4uA1txjPVuuZ4fRJUeaz34ao46844153ImqiMujS3M5e2uXHLeO7OMev+74/6Iik2vGO4ijK4nu8I+ryCxHYYgcvYBe62c6T36rq9pfwzwm1PUzibG0n+VnOWfe930YV5o/PYvvBTnL5Jjt8VcvXBPIrGzD7o+CbidLRWbfIrRLRlVkWde8LmB2hbuOht3vTvT4XcmmciS4FOFMRQQhxytyxOzUUTgfzL4i2VO+sjRrqQAeUNqlxDJYchSR8A6WZGuw8WeV9oqjDqK0f9eHH7thyQkAoJTi/n3/+nnz5vwCyqU/g/Kq2jEAAAAASUVORK5CYII="
-     id="image344"
-     x="258.24"
-     y="45.015" />
   <path
      class="cls-1"
      id="polyline346"
